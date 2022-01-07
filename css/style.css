@@ -1,0 +1,10 @@
+body {
+    color: #264653;
+    margin: 0 ;
+}
+#name_section {
+    background-color: #F4A261;
+    position: relative;
+    overflow: auto;
+    
+}
